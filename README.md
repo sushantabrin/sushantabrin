@@ -2,7 +2,7 @@
 - 👀 I’m Technical Buisiness Analyst in Cybersecurity and Risk
 - 🌱 I’m currently learning Ethical hacking and VAPT
 - 💞️ In love with Logics
-- 📫 How to reach me : mail me at abrinsushant@gmail.com
+- 📫 How to reach me : mail me at abrinsushant@hotmail.com
 
 <!---
 sushantabrin/sushantabrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
